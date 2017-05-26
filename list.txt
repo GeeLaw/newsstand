@@ -1,4 +1,4 @@
-@@ CHANEL China
+@@ 香奈儿中国
 edm@vip.chanel-club.com
 
 @@ TechNet
@@ -7,3 +7,163 @@ microsoft@e-mail.microsoft.com
 @@ Twitter
 info@twitter.com
 notify@twitter.com
+
+@@ OnDeck
+mail@sealink.com.au
+
+@@ Appointy
+donotreply@appointy.com
+
+@@ 微软在线商城
+microsoftonlinestore@campaign.microsoftstore.com.cn
+return-to@mkt.microsoftstore.com.cn
+
+@@ Tumblr
+no-reply@tumblr.com
+
+@@ Nike
+nike@official.nike.com
+
+@@ Disqus
+notifications@disqus.net
+
+@@ Atlassian
+noreply@mailer.atlassian.com
+
+@@ Medium
+noreply@medium.com
+
+@@ 携程
+ctrip@ibuedm.ctrip.com
+
+@@ Marks & Spencer
+marksandspencer@news.marksandspencer.com
+
+@@ Microsoft Imagine
+msimagine@e-mail.microsoft.com
+
+@@ 腾讯云
+yun_noreply@tencent.com
+
+@@ ResearchGate
+no-reply@researchgatemail.net
+
+@@ Facebook
+@facebookmail.com
+
+@@ 1105 Events
+1105Events@1105.net
+
+@@ føtex
+mail@nyheder.foetex.dk
+
+@@ Microsoft Store
+microsoftstore@microsoftstoreemail.com
+stremail@microsoft.com
+
+@@ ACM
+learning@acm.org
+
+@@ Everlane
+support@everlane.com
+
+@@ Visual Studio Dev Essentials
+vs_dev_essentials@e-mail.microsoft.com
+
+@@ Xbox Live Rewards
+xboxliverewards@e.helloworldmail.com
+
+@@ iTunes U
+iTunesU@new.itunes.com
+
+@@ 程序员客栈
+service@programmerinn.com
+
+@@ Microsoft Billing
+billing@microsoft.com
+
+@@ 阿里云
+newsletter@newsletter.aliyun.com
+system@notice.aliyun.com
+
+@@ LaFourchette
+info@email.lafourchette.com
+
+@@ MSN
+msn@e.microsoft.com
+
+@@ KitchMe
+kitchme@e.kitchme.com
+
+@@ Français avec Pierre
+info@francaisavecpierre.com
+
+@@ Strava
+privacy@update.strava.com
+
+@@ Azure Team
+azureteam@e-mail.microsoft.com
+azurenewsreply@microsoft.com
+
+@@ SprezzaBox
+support@sprezzabox.com
+
+@@ 凤凰知音
+ffp@enews.airchina.com.cn
+
+@@ Designer News
+hello@designernews.co
+
+@@ LinkedIn
+messages-noreply@linkedin.com
+invitations@linkedin.com
+news@linkedin.com
+jobs-listings@linkedin.com
+
+@@ Grammarly Insights
+info@send.grammarly.com
+
+@@ 招商银行信用卡
+ccsvcad@message.cmbchina.com
+
+@@ YouTube
+noreply@youtube.com
+
+@@ Keybase
+notify@keybase.io
+
+@@ Google+
+noreply-google-plus@google.com
+
+@@ Gap 中国
+gap@email.gap.cn
+
+@@ 知乎
+weekly-digest@newsletter2.zhihu.com
+
+@@ OneDrive
+OneDrive@d2em.microsoft.com
+
+@@ GitHub
+no-reply@github.com
+
+@@ Microsoft Surface
+email@engage.surface.com
+
+@@ Microsoft Groove
+groove@e-mail.microsoft.com
+
+@@ Apple China
+News_China@InsideApple.Apple.com
+
+@@ GoDaddy
+offers@e.godaddy.com
+
+@@ PayPal
+paypal@mail.paypal.com
+
+@@ 浦发银行信用卡中心
+estmtservice@eb.spdbccc.com.cn
+
+@@ Windows Developer
+info@dev-mail.windows.com
