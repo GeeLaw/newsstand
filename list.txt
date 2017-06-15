@@ -1,5 +1,6 @@
 @@ 香奈儿中国
 edm@vip.chanel-club.com
+edm@vip.chanel-eclub.com
 
 @@ TechNet
 microsoft@e-mail.microsoft.com
@@ -10,6 +11,9 @@ notify@twitter.com
 
 @@ OnDeck
 mail@sealink.com.au
+
+@@ Captain Cook
+donotreply@captaincook.com.au
 
 @@ Appointy
 donotreply@appointy.com
@@ -26,6 +30,7 @@ nike@official.nike.com
 
 @@ Disqus
 notifications@disqus.net
+hello@disqus.com
 
 @@ Atlassian
 noreply@mailer.atlassian.com
@@ -35,6 +40,7 @@ noreply@medium.com
 
 @@ 携程
 ctrip@ibuedm.ctrip.com
+ENGLISH_FLIGHT_SUPPORT@CTRIP.COM
 
 @@ Marks & Spencer
 marksandspencer@news.marksandspencer.com
@@ -53,6 +59,7 @@ no-reply@researchgatemail.net
 
 @@ 1105 Events
 1105Events@1105.net
+1105Events@1105tech.com
 
 @@ føtex
 mail@nyheder.foetex.dk
@@ -88,6 +95,7 @@ system@notice.aliyun.com
 
 @@ LaFourchette
 info@email.lafourchette.com
+lafourchette@email.lafourchette.be
 
 @@ MSN
 msn@e.microsoft.com
@@ -110,6 +118,7 @@ support@sprezzabox.com
 
 @@ 凤凰知音
 ffp@enews.airchina.com.cn
+ffp@enewsletter.airchina.com.cn
 
 @@ Designer News
 hello@designernews.co
@@ -119,12 +128,15 @@ messages-noreply@linkedin.com
 invitations@linkedin.com
 news@linkedin.com
 jobs-listings@linkedin.com
+notifications-noreply@linkedin.com
+marketing@ecn.linkedin.com
 
 @@ Grammarly Insights
 info@send.grammarly.com
 
 @@ 招商银行信用卡
 ccsvcad@message.cmbchina.com
+95555@message.cmbchina.com
 
 @@ YouTube
 noreply@youtube.com
@@ -140,6 +152,7 @@ gap@email.gap.cn
 
 @@ 知乎
 weekly-digest@newsletter2.zhihu.com
+account@mail2.zhihu.com
 
 @@ OneDrive
 OneDrive@d2em.microsoft.com
@@ -167,3 +180,73 @@ estmtservice@eb.spdbccc.com.cn
 
 @@ Windows Developer
 info@dev-mail.windows.com
+
+@@ Coding.NET
+no-reply@mail.coding.net
+
+@@ Ashmolean Museum
+subscriptions@mail2.mcsignup.com
+subscriptions@ashmus.ox.ac.uk
+
+@@ 草莓网
+newinfochn@adv.strawberrynet.com
+
+@@ SegmentFault
+notification@mail2.segmentfault.com
+no-reply@segmentfault.com
+
+@@ IFTTT
+mail@ifttt.com
+
+@@ Kaggle
+team@kaggle.com
+
+@@ Apple Music
+new@applemusic.com
+
+@@ Booking.com
+noreply@booking.com
+email.campaign@sg.booking.com
+customer.service@booking.com
+
+@@ Microsoft Office 365 Team
+Office365@email.microsoftonline.com
+
+@@ Feedly
+support@feedly.com
+hello@feedly.com
+
+@@ App Store
+AppStore@new.itunes.com
+
+@@ Test My Site with Google
+testmysite-noreply@google.com
+
+@@ FALKE
+news@message.falke.com
+
+@@ Midttrafik
+kvittering@midttrafik.dk
+noreply@midttrafik.dk
+
+@@ DSB
+netbutikken@dsb.dk
+
+@@ OneDrive User Voice
+no-reply@onedrive.uservoice.com
+
+@@ Visit Paris
+internet@resa.parisinfo.com
+
+@@ 众安保险
+cs@edm.zhongan.com
+
+@@ Zleep Hotels
+booking@zleephotels.com
+
+@@ Travel Wi-Fi
+sales@travel-wifi.com
+order@travel-wifi.com
+
+@@ Windows Store
+microsoftstore@e.microsoft.com
