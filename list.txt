@@ -42,6 +42,8 @@ noreply@medium.com
 @@ 携程
 ctrip@ibuedm.ctrip.com
 ENGLISH_FLIGHT_SUPPORT@CTRIP.COM
+ctrip-overseas@ibuedm.ctrip.com
+recommend@lists4.ctrip.com
 
 @@ Marks & Spencer
 marksandspencer@news.marksandspencer.com
@@ -63,6 +65,10 @@ no-reply@researchgatemail.net
 1105Events@1105tech.com
 VSLive@1105.net
 TechMentor@1105.net
+mmarzoni@techmentorevents.com
+VSL@1105.net
+VSLive@1105edata.com
+Live360@1105.net
 
 @@ føtex
 mail@nyheder.foetex.dk
@@ -142,6 +148,7 @@ info@send.grammarly.com
 @@ 招商银行信用卡
 ccsvcad@message.cmbchina.com
 95555@message.cmbchina.com
+ccsvc@message.cmbchina.com
 
 @@ YouTube
 noreply@youtube.com
@@ -165,6 +172,7 @@ OneDrive@d2em.microsoft.com
 
 @@ GitHub
 no-reply@github.com
+education@github.com
 
 @@ Microsoft Surface
 email@engage.surface.com
@@ -284,3 +292,27 @@ support@clustrmaps.com
 @@ JoyVPN 卓越 VPN
 service@joyvpn.net
 admin@joyvpn.net
+
+@@ Cloudflare
+product-updates@cloudflare.com
+no-reply@cloudflare.com
+newsletter@cloudflare.com
+
+@@ Microsoft Support Verification
+maccount@microsoft.com
+
+@@ Microsoft Movies & TV
+microsoftmoviestv@email2.microsoft.com
+
+@@ Apple
+noreply@email.apple.com
+appleid@id.apple.com
+
+@@ Microsoft account
+account-security-noreply@accountprotection.microsoft.com
+
+@@ Starbucks China
+starbucks_survey@e.starbucks.com.cn
+
+@@ Microsoft Edge Developer
+no-reply@microsoftedge.com
