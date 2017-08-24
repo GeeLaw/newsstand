@@ -69,6 +69,8 @@ mmarzoni@techmentorevents.com
 VSL@1105.net
 VSLive@1105edata.com
 Live360@1105.net
+Live360@1105edata.com
+Live360@1105data.com
 
 @@ føtex
 mail@nyheder.foetex.dk
@@ -316,3 +318,30 @@ starbucks_survey@e.starbucks.com.cn
 
 @@ Microsoft Edge Developer
 no-reply@microsoftedge.com
+
+@@ ShareLaTeX
+news@sharelatex.com
+
+@@ 京东
+customer_service@jd.com
+
+@@ Garmin
+garmin@email.garmin.com
+
+@@ 星巴克 My Starbucks Rewards
+starbucks@e1.starbucks.com.cn
+
+@@ NEAA 教育部考试中心
+gre@mail.neea.edu.cn
+
+@@ ETS
+toefl@ets.org
+
+@@ 什么值得买
+service@service.smzdm.com
+
+@@ Microsoft HoloLens
+email@engage.microsofthololens.com
+
+@@ 京东JD.com
+newsletter1@jd.com
