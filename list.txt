@@ -8,10 +8,12 @@ microsoft@e-mail.microsoft.com
 @@ Twitter
 info@twitter.com
 notify@twitter.com
+verify@twitter.com
 
 @@ OnDeck
 mail@sealink.com.au
 mail@joinondeck.com.au
+no-reply@sealink.com.au
 
 @@ Captain Cook
 donotreply@captaincook.com.au
@@ -143,6 +145,7 @@ jobs-listings@linkedin.com
 notifications-noreply@linkedin.com
 marketing@ecn.linkedin.com
 linkedin@e.linkedin.com
+messaging-digest-noreply@linkedin.com
 
 @@ Grammarly Insights
 info@send.grammarly.com
@@ -187,6 +190,7 @@ News_China@InsideApple.Apple.com
 
 @@ GoDaddy
 offers@e.godaddy.com
+donotreply_SG@godaddy.com
 
 @@ PayPal
 paypal@mail.paypal.com
@@ -213,6 +217,7 @@ no-reply@segmentfault.com
 
 @@ IFTTT
 mail@ifttt.com
+support@ifttt.com
 
 @@ Kaggle
 team@kaggle.com
@@ -309,6 +314,7 @@ microsoftmoviestv@email2.microsoft.com
 @@ Apple
 noreply@email.apple.com
 appleid@id.apple.com
+no_reply@email.apple.com
 
 @@ Microsoft account
 account-security-noreply@accountprotection.microsoft.com
@@ -345,3 +351,30 @@ email@engage.microsofthololens.com
 
 @@ 京东JD.com
 newsletter1@jd.com
+
+@@ Instagram
+no-reply@mail.instagram.com
+
+@@ National Instruments
+NationalInstruments@ni.com
+
+@@ Apple Support
+AppleSupport@email.apple.com
+
+@@ iTunes
+discover@new.itunes.com
+
+@@ Microsoft Support Survey
+microsoftsupport@surveysitemail.com
+
+@@ nVIDIA Developer
+noreply@nvidiadeveloper.com
+
+@@ Path
+noreply@path.com
+
+@@ Google
+no-reply@accounts.google.com
+
+@@ Visual Studio Community
+vscommun@dc.microsoft.com
