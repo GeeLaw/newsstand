@@ -58,6 +58,7 @@ yun_noreply@tencent.com
 
 @@ ResearchGate
 no-reply@researchgatemail.net
+no-reply@researchgate.net
 
 @@ Facebook
 @facebookmail.com
@@ -191,6 +192,7 @@ News_China@InsideApple.Apple.com
 @@ GoDaddy
 offers@e.godaddy.com
 donotreply_SG@godaddy.com
+AccountStatus@GoDaddy.com
 
 @@ PayPal
 paypal@mail.paypal.com
@@ -378,3 +380,15 @@ no-reply@accounts.google.com
 
 @@ Visual Studio Community
 vscommun@dc.microsoft.com
+
+@@ 12306
+12306@rails.com.cn
+
+@@ 什么值得买
+weekly@newsletter.smzdm.com
+
+@@ IVI / DIVI Lab
+no-reply@portal.lab.ivi2.org
+
+@@ NuGet Team
+noreply@nuget.org
