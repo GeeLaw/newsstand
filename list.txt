@@ -9,6 +9,7 @@ microsoft@e-mail.microsoft.com
 info@twitter.com
 notify@twitter.com
 verify@twitter.com
+newsletter@twitter.com
 
 @@ OnDeck
 mail@sealink.com.au
@@ -127,6 +128,7 @@ privacy@update.strava.com
 @@ Azure Team
 azureteam@e-mail.microsoft.com
 azurenewsreply@microsoft.com
+wapteams@microsoft.com
 
 @@ SprezzaBox
 support@sprezzabox.com
@@ -301,6 +303,7 @@ support@clustrmaps.com
 @@ JoyVPN 卓越 VPN
 service@joyvpn.net
 admin@joyvpn.net
+admin@ijoyvm.com
 
 @@ Cloudflare
 product-updates@cloudflare.com
@@ -392,3 +395,14 @@ no-reply@portal.lab.ivi2.org
 
 @@ NuGet Team
 noreply@nuget.org
+
+@@ Amazon.com
+delivery@amazon.com
+digital-no-reply@amazon.com
+account-update@amazon.com
+
+@@ ETS
+marketresearch@ets.org
+
+@@ Overleaf
+welcome@overleaf.com
