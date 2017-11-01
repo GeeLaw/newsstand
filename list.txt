@@ -124,6 +124,7 @@ info@francaisavecpierre.com
 
 @@ Strava
 privacy@update.strava.com
+newsletter@news.strava.com
 
 @@ Azure Team
 azureteam@e-mail.microsoft.com
@@ -187,6 +188,7 @@ email@engage.surface.com
 
 @@ Microsoft Groove
 groove@e-mail.microsoft.com
+groovemusic@email2.microsoft.com
 
 @@ Apple China
 News_China@InsideApple.Apple.com
@@ -225,6 +227,7 @@ support@ifttt.com
 
 @@ Kaggle
 team@kaggle.com
+mark@kaggle.com
 
 @@ Apple Music
 new@applemusic.com
@@ -374,6 +377,7 @@ microsoftsupport@surveysitemail.com
 
 @@ nVIDIA Developer
 noreply@nvidiadeveloper.com
+news@nvidia.com
 
 @@ Path
 noreply@path.com
@@ -406,3 +410,29 @@ marketresearch@ets.org
 
 @@ Overleaf
 welcome@overleaf.com
+maryanne.baynes@overleaf.com
+
+@@ 计蒜客
+newsletter@jisuanke.com
+
+@@ V2EX
+hello@v2ex.com
+
+@@ 万门大学
+wanmen@newsletter.wanmen.org
+
+@@ Outlook.com Premium
+OutlookPremiumHelp@microsoft.com
+
+@@ CSDN
+CSDN@mx239.edmsend.csdn.net
+CSDN@mx214.edmsend.csdn.net
+
+@@ Microsoft Connect
+msftconn@microsoft.com
+
+@@ 爱奇艺
+no-reply@qiyi.com
+
+@@ Microsoft User Research
+invites@mailer.surveygizmo.com
