@@ -224,6 +224,7 @@ no-reply@segmentfault.com
 @@ IFTTT
 mail@ifttt.com
 support@ifttt.com
+alerts@ifttt.com
 
 @@ Kaggle
 team@kaggle.com
@@ -280,6 +281,7 @@ sales@travel-wifi.com
 order@travel-wifi.com
 selfpickup@travel-wifi.com
 support@travel-wifi.com
+contact@travel-wifi.com
 
 @@ Windows Store
 microsoftstore@e.microsoft.com
@@ -350,6 +352,7 @@ gre@mail.neea.edu.cn
 
 @@ ETS
 toefl@ets.org
+etsaccount@ets.org
 
 @@ 什么值得买
 service@service.smzdm.com
@@ -427,6 +430,8 @@ OutlookPremiumHelp@microsoft.com
 @@ CSDN
 CSDN@mx239.edmsend.csdn.net
 CSDN@mx214.edmsend.csdn.net
+CSDN@mx222.edmsend.csdn.net
+CSDN@mx199.edmsend.csdn.net
 
 @@ Microsoft Connect
 msftconn@microsoft.com
@@ -436,3 +441,22 @@ no-reply@qiyi.com
 
 @@ Microsoft User Research
 invites@mailer.surveygizmo.com
+
+@@ Microsoft
+email@microsoft.com
+
+@@ Berkeley Graduate Admisssions
+gradadm@berkeley.edu
+
+@@ BrowserStack
+hello@browserstack.com
+
+@@ ApplyWeb On-Line Applications
+applyweb@collegenet.com
+accounts@applyweb.com
+
+@@ Docs.com Team
+docs.com@e-mail.microsoft.com
+
+@@ IBM
+service@newsletter.chinabyte.com
