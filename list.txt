@@ -47,6 +47,7 @@ ctrip@ibuedm.ctrip.com
 ENGLISH_FLIGHT_SUPPORT@CTRIP.COM
 ctrip-overseas@ibuedm.ctrip.com
 recommend@lists4.ctrip.com
+Trip.com@newsletter.trip.com
 
 @@ Marks & Spencer
 marksandspencer@news.marksandspencer.com
@@ -75,6 +76,7 @@ VSLive@1105edata.com
 Live360@1105.net
 Live360@1105edata.com
 Live360@1105data.com
+TM@1105edata.com
 
 @@ føtex
 mail@nyheder.foetex.dk
@@ -368,6 +370,7 @@ no-reply@mail.instagram.com
 
 @@ National Instruments
 NationalInstruments@ni.com
+china.info@ni.com
 
 @@ Apple Support
 AppleSupport@email.apple.com
@@ -432,6 +435,8 @@ CSDN@mx239.edmsend.csdn.net
 CSDN@mx214.edmsend.csdn.net
 CSDN@mx222.edmsend.csdn.net
 CSDN@mx199.edmsend.csdn.net
+CSDN@mx241.edmsend.csdn.net
+CSDN@mx216.edmsend.csdn.net
 
 @@ Microsoft Connect
 msftconn@microsoft.com
@@ -460,3 +465,36 @@ docs.com@e-mail.microsoft.com
 
 @@ IBM
 service@newsletter.chinabyte.com
+
+@@ Stanford Computer Science Graduate Admissions
+admissions@cs.stanford.edu
+
+@@ UCLA Graduate Admissions
+admissions@grad.ucla.edu
+
+@@ UCLA Finance
+NOREPLY@FINANCE.UCLA.EDU
+
+@@ My Starbucks Rewards
+starbucks@e.starbucks.com.cn
+
+@@ ApplyWeb
+help@applyweb.com
+
+@@ HappyCulture Collection
+hello@happy-culture-collection.com
+
+@@ NYU Graduate Enrollment Services
+gsas.admissions@nyu.edu
+
+@@ MIT Graduate Application
+gradapply-email@mit.edu
+
+@@ 小象学院
+admin@sc.chinahadoop.cn
+
+@@ 天猫
+wenjuan@new.mail.tmall.com
+
+@@ Agiso自动发货
+alds@agiso.com
