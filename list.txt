@@ -139,6 +139,7 @@ support@sprezzabox.com
 @@ 凤凰知音
 ffp@enews.airchina.com.cn
 ffp@enewsletter.airchina.com.cn
+newsletter@news.airchina.com
 
 @@ Designer News
 hello@designernews.co
@@ -248,6 +249,7 @@ Office365@email.microsoftonline.com
 @@ Feedly
 support@feedly.com
 hello@feedly.com
+edwin@em.feedly.com
 
 @@ App Store
 AppStore@new.itunes.com
@@ -420,6 +422,7 @@ maryanne.baynes@overleaf.com
 
 @@ 计蒜客
 newsletter@jisuanke.com
+notify@jisuanke.com
 
 @@ V2EX
 hello@v2ex.com
@@ -471,6 +474,7 @@ admissions@cs.stanford.edu
 
 @@ UCLA Graduate Admissions
 admissions@grad.ucla.edu
+gradapp@MVS.AIS.UCLA.EDU
 
 @@ UCLA Finance
 NOREPLY@FINANCE.UCLA.EDU
@@ -483,6 +487,8 @@ help@applyweb.com
 
 @@ HappyCulture Collection
 hello@happy-culture-collection.com
+assistant@madeho.fr
+hotel-belloy-saint-germain@experience-hotel.com
 
 @@ NYU Graduate Enrollment Services
 gsas.admissions@nyu.edu
@@ -498,3 +504,69 @@ wenjuan@new.mail.tmall.com
 
 @@ Agiso自动发货
 alds@agiso.com
+
+@@ CMU CS Graduate Admissions
+applygrad@cs.cmu.edu
+
+@@ Illinois Graduate Admissions
+gradadmissions@illinois.edu
+admissions@cs.illinois.edu
+
+@@ Columbia Computer Science Graduate Application
+mice@lists.cs.columbia.edu
+seasgradadmit@columbia.edu
+
+@@ Georgia Tech Graduate Admissions
+gradinfo@mail.gatech.edu
+
+@@ Princeton Graduate Admission
+gsadmit@princeton.edu
+gradapp@princeton.edu
+
+@@ University of Washington Graduate Admissions
+grad-advisor@cs.washington.edu
+
+@@ UT Austin Graduate Application
+applytexas@austin.utexas.edu
+noreply@www.applytexas.org
+services@cs.utexas.edu
+intladm@austin.utexas.edu
+csadmis@cs.utexas.edu
+
+@@ U Texas IT
+help@its.utexas.edu
+
+@@ UCSB Graduate Admissions
+gradadmissions@graddiv.ucsb.edu
+noreply@mail.authorize.net
+
+@@ UCLA Anderson MBA Admissions
+mba.admissions@anderson.ucla.edu
+
+@@ NameSilo
+support@namesilo.com
+
+@@ 学堂在线
+post@m-mail.xuetangx.com
+
+@@ Flipboard
+welcome@flipboard.com
+no-reply@flipboard.com
+
+@@ iBooks
+iBooks@new.itunes.com
+
+@@ Skype Notifications
+no-reply@notifications.skype.com
+
+@@ WeGene
+no-reply@mail.wegene.com
+
+@@ 清华大学计小研
+welwitschia@contacts.edmails.com
+
+@@ Microsoft Community
+MicrosoftAnswers@microsoft.com
+
+@@ Ali TMall Stat
+aliresearch@new.mail.tmall.com
