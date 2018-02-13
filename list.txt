@@ -31,6 +31,7 @@ no-reply@tumblr.com
 
 @@ Nike
 nike@official.nike.com
+jordan@official.nike.com
 
 @@ Disqus
 notifications@disqus.net
@@ -96,6 +97,7 @@ vs_dev_essentials@e-mail.microsoft.com
 
 @@ Xbox Live Rewards
 xboxliverewards@e.helloworldmail.com
+xboxliverewards@rewards.helloworldmail.com
 
 @@ iTunes U
 iTunesU@new.itunes.com
@@ -132,6 +134,7 @@ newsletter@news.strava.com
 azureteam@e-mail.microsoft.com
 azurenewsreply@microsoft.com
 wapteams@microsoft.com
+azure@microsoft.com
 
 @@ SprezzaBox
 support@sprezzabox.com
@@ -507,6 +510,7 @@ alds@agiso.com
 
 @@ CMU CS Graduate Admissions
 applygrad@cs.cmu.edu
+root@visit.cs.cmu.edu
 
 @@ Illinois Graduate Admissions
 gradadmissions@illinois.edu
@@ -518,6 +522,8 @@ seasgradadmit@columbia.edu
 
 @@ Georgia Tech Graduate Admissions
 gradinfo@mail.gatech.edu
+gatech@messages.collegenet.com
+noreply@cc.gatech.edu
 
 @@ Princeton Graduate Admission
 gsadmit@princeton.edu
@@ -532,6 +538,7 @@ noreply@www.applytexas.org
 services@cs.utexas.edu
 intladm@austin.utexas.edu
 csadmis@cs.utexas.edu
+graddec@austin.utexas.edu
 
 @@ U Texas IT
 help@its.utexas.edu
@@ -570,3 +577,9 @@ MicrosoftAnswers@microsoft.com
 
 @@ Ali TMall Stat
 aliresearch@new.mail.tmall.com
+
+@@ ORCiD
+support@verify.orcid.org
+
+@@ StackOverflow
+do-not-reply@stackoverflow.email
