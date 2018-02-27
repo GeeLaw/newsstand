@@ -36,6 +36,8 @@ jordan@official.nike.com
 @@ Disqus
 notifications@disqus.net
 hello@disqus.com
+noreply@disqus.com
+help@disqus.com
 
 @@ Atlassian
 noreply@mailer.atlassian.com
@@ -511,6 +513,7 @@ alds@agiso.com
 @@ CMU CS Graduate Admissions
 applygrad@cs.cmu.edu
 root@visit.cs.cmu.edu
+VPI-IntlFellowships@andrew.cmu.edu
 
 @@ Illinois Graduate Admissions
 gradadmissions@illinois.edu
@@ -539,6 +542,7 @@ services@cs.utexas.edu
 intladm@austin.utexas.edu
 csadmis@cs.utexas.edu
 graddec@austin.utexas.edu
+hotline@austin.utexas.edu
 
 @@ U Texas IT
 help@its.utexas.edu
@@ -583,3 +587,23 @@ support@verify.orcid.org
 
 @@ StackOverflow
 do-not-reply@stackoverflow.email
+
+@@ 中信银行
+service@citicbank.com
+
+@@ US DoS
+DO-NOT-REPLY@STATE.GOV
+
+@@ TeamViewer
+service-noreply@teamviewer.com
+SignIn-noreply@teamviewer.com
+
+@@ US Travel Docs
+support@ustraveldocs.com
+no-reply@ustraveldocs.com
+
+@@ US Visa Application
+Beijingvisaapp@state.gov
+
+@@ CITIC eVisa 99
+service@mail.evisa99.cn
