@@ -51,6 +51,7 @@ ENGLISH_FLIGHT_SUPPORT@CTRIP.COM
 ctrip-overseas@ibuedm.ctrip.com
 recommend@lists4.ctrip.com
 Trip.com@newsletter.trip.com
+ia_rsv@ctrip.com
 
 @@ Marks & Spencer
 marksandspencer@news.marksandspencer.com
@@ -208,6 +209,7 @@ AccountStatus@GoDaddy.com
 
 @@ PayPal
 paypal@mail.paypal.com
+service@intl.paypal.com
 
 @@ 浦发银行信用卡中心
 estmtservice@eb.spdbccc.com.cn
@@ -514,6 +516,7 @@ alds@agiso.com
 applygrad@cs.cmu.edu
 root@visit.cs.cmu.edu
 VPI-IntlFellowships@andrew.cmu.edu
+cmu-forms-transformDONOTREPLY@andrew.cmu.edu
 
 @@ Illinois Graduate Admissions
 gradadmissions@illinois.edu
@@ -527,6 +530,7 @@ seasgradadmit@columbia.edu
 gradinfo@mail.gatech.edu
 gatech@messages.collegenet.com
 noreply@cc.gatech.edu
+noreply@grad.gatech.edu
 
 @@ Princeton Graduate Admission
 gsadmit@princeton.edu
@@ -584,6 +588,7 @@ aliresearch@new.mail.tmall.com
 
 @@ ORCiD
 support@verify.orcid.org
+update@notify.orcid.org
 
 @@ StackOverflow
 do-not-reply@stackoverflow.email
@@ -607,3 +612,23 @@ Beijingvisaapp@state.gov
 
 @@ CITIC eVisa 99
 service@mail.evisa99.cn
+
+@@ Washington Square Hotel
+reservations@wshotel.com
+
+@@ United Airlines
+unitedairlines@united.com
+noreply@qemailserver.com
+UnitedAirlines@news.united.com
+
+@@ 哔哩哔哩
+verify@mail.bilibili.tv
+
+@@ Name.com
+noreply@name.com
+
+@@ Uber
+uber.us@uber.com
+
+@@ OpenTable
+no-reply@opentable.com
