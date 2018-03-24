@@ -187,6 +187,7 @@ marketing@newsletter2.zhihu.com
 
 @@ OneDrive
 OneDrive@d2em.microsoft.com
+no-reply@onedrive.com
 
 @@ GitHub
 no-reply@github.com
@@ -239,6 +240,7 @@ alerts@ifttt.com
 @@ Kaggle
 team@kaggle.com
 mark@kaggle.com
+rachael@kaggle.com
 
 @@ Apple Music
 new@applemusic.com
@@ -339,6 +341,7 @@ no_reply@email.apple.com
 
 @@ Microsoft account
 account-security-noreply@accountprotection.microsoft.com
+msa@communication.microsoft.com
 
 @@ Starbucks China
 starbucks_survey@e.starbucks.com.cn
@@ -629,6 +632,26 @@ noreply@name.com
 
 @@ Uber
 uber.us@uber.com
+noreply@uber.com
 
 @@ OpenTable
 no-reply@opentable.com
+
+@@ Delta Airlines
+noreply@delta.com
+DeltaAirLines@e.delta.com
+
+@@ 飞猪
+alitrip@news.mail.alitrip.com
+
+@@ Gogo
+gogo@e.gogoair.com
+
+@@ Bose
+sales_support_us@bose.com
+
+@@ UniFocus Survey
+NoReply@UniFocusSurvey.com
+
+@@ AliPay Service
+service@mail.alipay.com
