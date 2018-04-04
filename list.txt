@@ -58,6 +58,7 @@ marksandspencer@news.marksandspencer.com
 
 @@ Microsoft Imagine
 msimagine@e-mail.microsoft.com
+msstdev@azureemail.microsoft.com
 
 @@ 腾讯云
 yun_noreply@tencent.com
@@ -159,6 +160,7 @@ notifications-noreply@linkedin.com
 marketing@ecn.linkedin.com
 linkedin@e.linkedin.com
 messaging-digest-noreply@linkedin.com
+inmail-hit-reply@linkedin.com
 
 @@ Grammarly Insights
 info@send.grammarly.com
@@ -450,6 +452,7 @@ CSDN@mx222.edmsend.csdn.net
 CSDN@mx199.edmsend.csdn.net
 CSDN@mx241.edmsend.csdn.net
 CSDN@mx216.edmsend.csdn.net
+service@register.csdn.net
 
 @@ Microsoft Connect
 msftconn@microsoft.com
@@ -468,6 +471,7 @@ gradadm@berkeley.edu
 
 @@ BrowserStack
 hello@browserstack.com
+news@browserstack.com
 
 @@ ApplyWeb On-Line Applications
 applyweb@collegenet.com
@@ -655,3 +659,14 @@ NoReply@UniFocusSurvey.com
 
 @@ AliPay Service
 service@mail.alipay.com
+
+@@ Apple Store
+noreply_apac@orders.apple.com
+order_acknowledgment@orders.apple.com
+shipping_notification@orders.apple.com
+Do_not_reply@apple.com
+order_update_cn@orders.apple.com
+Your_order-is_almost_complete_AT@orders.apple.com
+
+@@ Bing
+hello@email.bing.com
