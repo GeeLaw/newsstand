@@ -67,9 +67,6 @@ yun_noreply@tencent.com
 no-reply@researchgatemail.net
 no-reply@researchgate.net
 
-@@ Facebook
-@facebookmail.com
-
 @@ 1105 Events
 1105Events@1105.net
 1105Events@1105tech.com
@@ -324,6 +321,7 @@ support@clustrmaps.com
 service@joyvpn.net
 admin@joyvpn.net
 admin@ijoyvm.com
+service@ijoyvm.com
 
 @@ Cloudflare
 product-updates@cloudflare.com
@@ -340,6 +338,8 @@ microsoftmoviestv@email2.microsoft.com
 noreply@email.apple.com
 appleid@id.apple.com
 no_reply@email.apple.com
+discussions-updates@apple.com
+AppleSupport@InsideApple.apple.com
 
 @@ Microsoft account
 account-security-noreply@accountprotection.microsoft.com
@@ -503,6 +503,7 @@ help@applyweb.com
 hello@happy-culture-collection.com
 assistant@madeho.fr
 hotel-belloy-saint-germain@experience-hotel.com
+bonjour@hotels.happyculture.co
 
 @@ NYU Graduate Enrollment Services
 gsas.admissions@nyu.edu
@@ -554,13 +555,18 @@ intladm@austin.utexas.edu
 csadmis@cs.utexas.edu
 graddec@austin.utexas.edu
 hotline@austin.utexas.edu
+world@austin.utexas.edu
 
 @@ U Texas IT
 help@its.utexas.edu
+isss-donotreply@austin.utexas.edu
 
 @@ UCSB Graduate Admissions
 gradadmissions@graddiv.ucsb.edu
 noreply@mail.authorize.net
+
+@@ UCSB Support Desk Collaboration
+support@ucsbcollabsupport.zendesk.com
 
 @@ UCLA Anderson MBA Admissions
 mba.admissions@anderson.ucla.edu
@@ -670,3 +676,16 @@ Your_order-is_almost_complete_AT@orders.apple.com
 
 @@ Bing
 hello@email.bing.com
+hello@email3.bing.com
+
+@@ 淘宝网
+taobao@mc.mail.taobao.com
+
+@@ Visual Studio Team Services
+VisualStudioTeamServices@microsoft.com
+
+@@ UCSB Housing
+housinginfo@housing.ucsb.edu
+
+@@ Box
+noreply@box.com
