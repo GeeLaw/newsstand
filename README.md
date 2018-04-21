@@ -21,7 +21,7 @@ The `++ include.txt` syntax makes your (my) life easier. I can now easily manage
 
 ## Update-MarkAsToBeSweptRule.ps1
 
-This PowerShell script is a simple application using [Microsoft Graph](https://developer.microsoft.com/en-us/graph) to automatically set rules for you. When I was writing the script, I found `Invoke-RestMethod` a very good friend! For information on how to use the script, `Get-Help` the PowerShell way.
+This PowerShell script is a simple application using [Microsoft Graph](https://developer.microsoft.com/en-us/graph) to automatically set rules for you. When I was writing the script, I found `Invoke-RestMethod` a very good friend! For information on how to use the script, `Get-Help` the PowerShell way. Read [my blog entry](https://geelaw.blog/entries/first-msgraph-app/) (in Chinese) on this thing.
 
 ## MIT License
 
