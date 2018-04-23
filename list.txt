@@ -424,6 +424,8 @@ noreply@nuget.org
 delivery@amazon.com
 digital-no-reply@amazon.com
 account-update@amazon.com
+auto-confirm@amazon.com
+shipment-tracking@amazon.com
 
 @@ ETS
 marketresearch@ets.org
@@ -526,6 +528,9 @@ root@visit.cs.cmu.edu
 VPI-IntlFellowships@andrew.cmu.edu
 cmu-forms-transformDONOTREPLY@andrew.cmu.edu
 
+@@ CMU Reimbursement
+acctspay@andrew.cmu.edu
+
 @@ Illinois Graduate Admissions
 gradadmissions@illinois.edu
 admissions@cs.illinois.edu
@@ -539,6 +544,9 @@ gradinfo@mail.gatech.edu
 gatech@messages.collegenet.com
 noreply@cc.gatech.edu
 noreply@grad.gatech.edu
+
+@@ Georgia Tech Athletics
+updates@gtathletics.fan-one.com
 
 @@ Princeton Graduate Admission
 gsadmit@princeton.edu
@@ -560,6 +568,9 @@ world@austin.utexas.edu
 @@ U Texas IT
 help@its.utexas.edu
 isss-donotreply@austin.utexas.edu
+
+@@ U Texas Alert
+utsafetyalert@austin.utexas.edu
 
 @@ UCSB Graduate Admissions
 gradadmissions@graddiv.ucsb.edu
@@ -689,3 +700,9 @@ housinginfo@housing.ucsb.edu
 
 @@ Box
 noreply@box.com
+
+@@ Uniqlo USA
+email@usa.uniqlo.com
+
+@@ eShipGlobal
+no-reply@eshipglobal.com

@@ -96,7 +96,9 @@ Param
     [Parameter(Mandatory = $false)]
     [string]$RuleDisplayName = 'Mark as To be swept (dcb300de84dc4a54a287659ed611977e)',
     [Parameter(Mandatory = $false)]
-    [switch]$Offline
+    [switch]$Offline,
+    [Parameter(Mandatory = $false)]
+    [switch]$WaitUI
 )
 Begin
 {
@@ -143,6 +145,7 @@ Process
                     ElseIf (-not $emailSet.Add($_.ToLowerInvariant()))
                     {
                         # The email is already present, skip it.
+                        Write-Verbose "$_ is duplicated in the list.";
                     }
                     ElseIf ($currentRecipientName -eq $null)
                     {
@@ -176,9 +179,11 @@ End
             -RecommendedAction 'Include more files, or edit the files.';
         Break;
     }
+    Write-Verbose "$($recipientList.Count) e-mail address(es) collected.";
     If ($Offline)
     {
-        $recipientList.emailAddress | Out-GridView -Title 'Newsstand Senders';
+        Write-Verbose 'Opening an interactive window for inspection.';
+        $recipientList.emailAddress | Out-GridView -Title 'Newsstand Senders' -Wait:$WaitUI;
         Write-Verbose 'Working offline, skipping other steps.';
         Break;
     }
@@ -298,7 +303,7 @@ End
         $currentRule = $currentRule[0];
         $currentRuleId = $currentRule.id;;
         $currentRule = $currentRule | Select-Object -Property actions, conditions, displayName, exceptions, isEnabled, isReadOnly, sequence;
-        Write-Verbose "Rule [$($currentRule.id)] is matched and will be updated.";
+        Write-Verbose "Rule [$currentRuleId] is matched and will be updated.";
     }
     $currentRule.actions = New-Object PSObject -Property @{ 'assignCategories' = @($RuleCategory); 'stopProcessingRules' = $False };
     $currentRule.conditions = New-Object PSObject -Property @{ 'fromAddresses' = $recipientList };
@@ -325,7 +330,8 @@ End
     # therefore, a direct check is necessary.
     If ($WhatIfPreference -or [int]$ConfirmPreference -lt [int][System.Management.Automation.ConfirmImpact]::Medium)
     {
-        $recipientList.emailAddress | Out-GridView -Title 'Newsstand Senders';
+        Write-Verbose 'Opening an interactive window for inspection.';
+        $recipientList.emailAddress | Out-GridView -Title 'Newsstand Senders' -Wait:$WaitUI;
         If (-not $PSCmdlet.ShouldProcess("Sending $method request to $ruleUri with the payload shown in the interactive window.",
             "Do you want to send $method request to $ruleUri with the payload shown in the interactive window?",
             [string]::Format($hintTitle, $currentRuleId)))
