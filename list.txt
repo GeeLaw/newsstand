@@ -15,6 +15,7 @@ newsletter@twitter.com
 mail@sealink.com.au
 mail@joinondeck.com.au
 no-reply@sealink.com.au
+no-reply@joinondeck.com.au
 
 @@ Captain Cook
 donotreply@captaincook.com.au
@@ -32,6 +33,7 @@ no-reply@tumblr.com
 @@ Nike
 nike@official.nike.com
 jordan@official.nike.com
+nikeofficial@newsletter.nike.com.cn
 
 @@ Disqus
 notifications@disqus.net
@@ -41,6 +43,7 @@ help@disqus.com
 
 @@ Atlassian
 noreply@mailer.atlassian.com
+no-reply@atlassian.com
 
 @@ Medium
 noreply@medium.com
@@ -136,6 +139,8 @@ azureteam@e-mail.microsoft.com
 azurenewsreply@microsoft.com
 wapteams@microsoft.com
 azure@microsoft.com
+Azuredataservices@microsoft.com
+azure-noreply@microsoft.com
 
 @@ SprezzaBox
 support@sprezzabox.com
@@ -191,6 +196,8 @@ no-reply@onedrive.com
 @@ GitHub
 no-reply@github.com
 education@github.com
+notifications@github.com
+edu-noreply@github.com
 
 @@ Microsoft Surface
 email@engage.surface.com
@@ -216,6 +223,7 @@ estmtservice@eb.spdbccc.com.cn
 
 @@ Windows Developer
 info@dev-mail.windows.com
+windows@microsoft.com
 
 @@ Coding.NET
 no-reply@mail.coding.net
@@ -327,6 +335,7 @@ service@ijoyvm.com
 product-updates@cloudflare.com
 no-reply@cloudflare.com
 newsletter@cloudflare.com
+legal-updates@cloudflare.com
 
 @@ Microsoft Support Verification
 maccount@microsoft.com
@@ -426,6 +435,8 @@ digital-no-reply@amazon.com
 account-update@amazon.com
 auto-confirm@amazon.com
 shipment-tracking@amazon.com
+vfe-campaign-response@amazon.com
+store-news@amazon.com
 
 @@ ETS
 marketresearch@ets.org
@@ -433,6 +444,7 @@ marketresearch@ets.org
 @@ Overleaf
 welcome@overleaf.com
 maryanne.baynes@overleaf.com
+john@overleaf.com
 
 @@ 计蒜客
 newsletter@jisuanke.com
@@ -700,9 +712,28 @@ housinginfo@housing.ucsb.edu
 
 @@ Box
 noreply@box.com
+noreply@customer.box.com
 
 @@ Uniqlo USA
 email@usa.uniqlo.com
 
 @@ eShipGlobal
 no-reply@eshipglobal.com
+
+@@ INKstone
+mail.baas@ink.one
+
+@@ UPS Quantum View
+auto-notify@ups.com
+
+@@ Microsoft Build
+microsoft@microsoft.com
+
+@@ I-901 Payment Notice
+i901noreply@fmjfee.com
+
+@@ Strava
+privacy@update.strava.com
+
+@@ Intel Developer
+wsm-postmaster@intel.com
