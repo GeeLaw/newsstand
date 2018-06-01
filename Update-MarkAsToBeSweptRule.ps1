@@ -1,3 +1,5 @@
+#Requires -Modules WebAuthenticationBroker
+
 <#
 .SYNOPSIS
     Sets an Inbox Rule to mark messages from certain senders with a certain
@@ -202,22 +204,12 @@ End
         $uiUrl += '&redirect_uri=' + $redirectUri;
         $uiUrl += '&scope=' + $scope;
         # Launch the page and wait for the result.
-        Start-Process -FilePath $uiUrl;
-        $local:retUri = Read-Host -Prompt "Sign in with your Microsoft account or Azure AD account,`nand allow the app to access your mailbox settings.`nWhen finishing, you will be redirected to https://login...nativeclient?code=...`nPaste the complete URI (empty to cancel)";
-        If ([string]::IsNullOrWhiteSpace($retUri))
-        {
-            Write-Error -Message 'User cancelled authorisation.' `
-                -Category OperationStopped `
-                -ErrorId 'cancelled';
-            Return;
-        }
-        $retUri = $retUri.Trim();
-        If (-not $retUri.ToLowerInvariant().StartsWith('https://login.microsoftonline.com/common/oauth2/nativeclient?'))
-        {
-            Write-Error -Message 'The return URI is incorrect.' -ErrorId 'invalid_return_uri' -Category AuthenticationError;
-            Return;
-        }
-        $retUri = $retUri.Substring('https://login.microsoftonline.com/common/oauth2/nativeclient?'.Length);
+        $local:retUri = Request-WebAuthentication -InitialUri $uiUrl -CompletionExtractor {
+            If ($_.ToLowerInvariant().StartsWith('https://login.microsoftonline.com/common/oauth2/nativeclient?'))
+            {
+                Return ($_.Substring('https://login.microsoftonline.com/common/oauth2/nativeclient?'.Length));
+            }
+        } -Title 'Sign in with your Microsoft account or Azure AD account';
         $retUri = '&' + $retUri + '&';
         # Check if there is an error.
         $local:errorRegex = [regex]::new('&[eE][rR][rR][oO][rR]=(.*?)&');
