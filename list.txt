@@ -262,6 +262,9 @@ noshow@booking.com
 @@ Microsoft Office 365 Team
 Office365@email.microsoftonline.com
 
+@@ Office Store Dev Communications
+osdc1033@microsoft.com
+
 @@ Feedly
 support@feedly.com
 hello@feedly.com
@@ -437,6 +440,7 @@ auto-confirm@amazon.com
 shipment-tracking@amazon.com
 vfe-campaign-response@amazon.com
 store-news@amazon.com
+customer-reviews-messages@amazon.com
 
 @@ ETS
 marketresearch@ets.org
@@ -581,6 +585,9 @@ world@austin.utexas.edu
 help@its.utexas.edu
 isss-donotreply@austin.utexas.edu
 
+@@ The Texas Edge
+thetexasedge@austin.utexas.edu
+
 @@ U Texas Alert
 utsafetyalert@austin.utexas.edu
 
@@ -703,6 +710,7 @@ hello@email3.bing.com
 
 @@ 淘宝网
 taobao@mc.mail.taobao.com
+news@new.mail.taobao.com
 
 @@ Visual Studio Team Services
 VisualStudioTeamServices@microsoft.com
@@ -737,3 +745,16 @@ privacy@update.strava.com
 
 @@ Intel Developer
 wsm-postmaster@intel.com
+intel.registration.center@intel.com
+bounce@plan.intel.com
+intel@plan.intel.com
+subscriptions@plan.intel.com
+
+@@ Wi-Fi Alliance
+noreply@wi-fi.org
+
+@@ Pastebin.com
+admin@pastebin.com
+
+@@ Devpost
+support@devpost.com
