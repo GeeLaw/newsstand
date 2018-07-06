@@ -62,6 +62,7 @@ marksandspencer@news.marksandspencer.com
 @@ Microsoft Imagine
 msimagine@e-mail.microsoft.com
 msstdev@azureemail.microsoft.com
+msstdev@microsoft.com
 
 @@ 腾讯云
 yun_noreply@tencent.com
@@ -205,6 +206,7 @@ email@engage.surface.com
 @@ Microsoft Groove
 groove@e-mail.microsoft.com
 groovemusic@email2.microsoft.com
+email@donotreply.microsoft.com
 
 @@ Apple China
 News_China@InsideApple.Apple.com
@@ -224,6 +226,7 @@ estmtservice@eb.spdbccc.com.cn
 @@ Windows Developer
 info@dev-mail.windows.com
 windows@microsoft.com
+windowsinsiderprogram@e-mail.microsoft.com
 
 @@ Coding.NET
 no-reply@mail.coding.net
@@ -248,6 +251,7 @@ alerts@ifttt.com
 team@kaggle.com
 mark@kaggle.com
 rachael@kaggle.com
+colinmorris@kaggle.com
 
 @@ Apple Music
 new@applemusic.com
@@ -321,6 +325,8 @@ galerieslafayette@coloradoconsumer-lab.com
 
 @@ About.me
 community@contact.about.me
+privacy@team.about.me
+privacy=team.about.me@about.me
 
 @@ Daniel Wellington
 danielwellington@newsletter.danielwellington.com
@@ -441,6 +447,10 @@ shipment-tracking@amazon.com
 vfe-campaign-response@amazon.com
 store-news@amazon.com
 customer-reviews-messages@amazon.com
+marketplace-messages@amazon.com
+cs-reply@amazon.com
+amazon-transcript@amazon.com
+auto-communication@amazon.com
 
 @@ ETS
 marketresearch@ets.org
@@ -758,3 +768,9 @@ admin@pastebin.com
 
 @@ Devpost
 support@devpost.com
+
+@@ Plusdeal
+support@plusdeal.dk
+
+@@ Adobe
+account-noreply@adobe.com
