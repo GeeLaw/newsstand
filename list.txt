@@ -358,6 +358,7 @@ appleid@id.apple.com
 no_reply@email.apple.com
 discussions-updates@apple.com
 AppleSupport@InsideApple.apple.com
+noreply@applepay.apple.com
 
 @@ Microsoft account
 account-security-noreply@accountprotection.microsoft.com
@@ -713,6 +714,7 @@ shipping_notification@orders.apple.com
 Do_not_reply@apple.com
 order_update_cn@orders.apple.com
 Your_order-is_almost_complete_AT@orders.apple.com
+xidanjoycity@apple.com
 
 @@ Bing
 hello@email.bing.com
@@ -774,3 +776,8 @@ support@plusdeal.dk
 
 @@ Adobe
 account-noreply@adobe.com
+message@adobe.com
+
+@@ 学位网
+services-xwcx@cdgdc.edu.cn
+rzsq@cdgdc.edu.cn
