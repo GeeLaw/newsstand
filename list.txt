@@ -1,6 +1,8 @@
 @@ 香奈儿中国
 edm@vip.chanel-club.com
 edm@vip.chanel-eclub.com
+chanel@chanel.sqeee.com
+edm@chanel.com.cn
 
 @@ TechNet
 microsoft@e-mail.microsoft.com
@@ -40,6 +42,7 @@ notifications@disqus.net
 hello@disqus.com
 noreply@disqus.com
 help@disqus.com
+hello@success.disqus.com
 
 @@ Atlassian
 noreply@mailer.atlassian.com
@@ -452,6 +455,8 @@ marketplace-messages@amazon.com
 cs-reply@amazon.com
 amazon-transcript@amazon.com
 auto-communication@amazon.com
+payments-messages@amazon.com
+atoz-guarantee-no-reply@amazon.com
 
 @@ ETS
 marketresearch@ets.org
@@ -777,6 +782,7 @@ support@plusdeal.dk
 @@ Adobe
 account-noreply@adobe.com
 message@adobe.com
+mail@info.adobesystems.com
 
 @@ 学位网
 services-xwcx@cdgdc.edu.cn
@@ -787,3 +793,13 @@ no-reply@strava.com
 
 @@ 脉脉
 noreply@mail.maimai.cn
+
+@@ Zig-BaaS
+baas@ziggurat.cn
+
+@@ EndNote
+endnote.account@clarivate.com
+news@discover.clarivate.com
+
+@@ OnTheHub
+noreply@kivuto.com
