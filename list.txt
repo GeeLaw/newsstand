@@ -4,6 +4,10 @@ edm@vip.chanel-eclub.com
 chanel@chanel.sqeee.com
 edm@chanel.com.cn
 
+@@ Chanel US
+chanel@enews-us.chanel.com
+Orders@e-us.chanel.com
+
 @@ TechNet
 microsoft@e-mail.microsoft.com
 
@@ -426,6 +430,7 @@ noreply@path.com
 
 @@ Google
 no-reply@accounts.google.com
+forwarding-noreply@google.com
 
 @@ Visual Studio Community
 vscommun@dc.microsoft.com
@@ -731,6 +736,7 @@ news@new.mail.taobao.com
 
 @@ Visual Studio Team Services
 VisualStudioTeamServices@microsoft.com
+VisualStudioOnline@microsoft.com
 
 @@ UCSB Housing
 housinginfo@housing.ucsb.edu
@@ -783,6 +789,7 @@ support@plusdeal.dk
 account-noreply@adobe.com
 message@adobe.com
 mail@info.adobesystems.com
+mail@mail.adobe.com
 
 @@ 学位网
 services-xwcx@cdgdc.edu.cn
@@ -803,3 +810,21 @@ news@discover.clarivate.com
 
 @@ OnTheHub
 noreply@kivuto.com
+
+@@ Instagram
+security@mail.instagram.com
+
+@@ JPMorgan Chase Bank
+no-reply@alertsp.chase.com
+smrfs@emailonline.chase.com
+banking@email.chaseoffers.com
+chaseonline@emailonline.chase.com
+
+@@ Facebook
+notification@facebookmail.com
+
+@@ SUBWAY Restaurants
+account@email.subway.com
+
+@@ 7-Eleven
+7-Eleven@e.email.bp00.com
