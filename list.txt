@@ -3,6 +3,7 @@ edm@vip.chanel-club.com
 edm@vip.chanel-eclub.com
 chanel@chanel.sqeee.com
 edm@chanel.com.cn
+edm@eclub.chanel.com.cn
 
 @@ Chanel US
 chanel@enews-us.chanel.com
@@ -462,6 +463,8 @@ amazon-transcript@amazon.com
 auto-communication@amazon.com
 payments-messages@amazon.com
 atoz-guarantee-no-reply@amazon.com
+prime@amazon.com
+amazon-student@amazon.com
 
 @@ ETS
 marketresearch@ets.org
@@ -828,3 +831,16 @@ account@email.subway.com
 
 @@ 7-Eleven
 7-Eleven@e.email.bp00.com
+
+@@ Postmates
+no-reply@postmates.com
+news@app.postmates.com
+
+@@ Google Forms
+forms-receipts-noreply@google.com
+
+@@ Microsoft Rewards
+microsoftrewards@email.microsoftrewards.com
+
+@@ Lyft
+noreply@lyft.com
