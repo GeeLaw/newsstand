@@ -107,6 +107,7 @@ support@everlane.com
 
 @@ Visual Studio Dev Essentials
 vs_dev_essentials@e-mail.microsoft.com
+VSDE@email2.microsoft.com
 
 @@ Xbox Live Rewards
 xboxliverewards@e.helloworldmail.com
@@ -353,6 +354,7 @@ product-updates@cloudflare.com
 no-reply@cloudflare.com
 newsletter@cloudflare.com
 legal-updates@cloudflare.com
+cfmarketing@cloudflare.com
 
 @@ Microsoft Support Verification
 maccount@microsoft.com
@@ -822,6 +824,7 @@ no-reply@alertsp.chase.com
 smrfs@emailonline.chase.com
 banking@email.chaseoffers.com
 chaseonline@emailonline.chase.com
+Chase@e.chase.com
 
 @@ Facebook
 notification@facebookmail.com
@@ -831,6 +834,7 @@ account@email.subway.com
 
 @@ 7-Eleven
 7-Eleven@e.email.bp00.com
+7Eleven@7-11.com
 
 @@ Postmates
 no-reply@postmates.com
@@ -844,3 +848,10 @@ microsoftrewards@email.microsoftrewards.com
 
 @@ Lyft
 noreply@lyft.com
+noreply@lyftmail.com
+
+@@ AMC Theatres
+noreply@email.amctheatres.com
+
+@@ SharePoint Online
+no-reply@sharepointonline.com
