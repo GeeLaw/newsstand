@@ -55,6 +55,7 @@ no-reply@atlassian.com
 
 @@ Medium
 noreply@medium.com
+editors-picks@medium.com
 
 @@ 携程
 ctrip@ibuedm.ctrip.com
@@ -275,8 +276,9 @@ noshow@booking.com
 @@ Microsoft Office 365 Team
 Office365@email.microsoftonline.com
 
-@@ Office Store Dev Communications
+@@ Microsoft Office Store
 osdc1033@microsoft.com
+appsource-no-reply@microsoft.com
 
 @@ Feedly
 support@feedly.com
@@ -305,6 +307,9 @@ no-reply@onedrive.uservoice.com
 @@ Visit Paris
 internet@resa.parisinfo.com
 no-reply@open-system.fr
+
+@@ Viparis
+contact@c-viparis.com
 
 @@ 众安保险
 cs@edm.zhongan.com
@@ -467,6 +472,7 @@ payments-messages@amazon.com
 atoz-guarantee-no-reply@amazon.com
 prime@amazon.com
 amazon-student@amazon.com
+order-update@amazon.com
 
 @@ ETS
 marketresearch@ets.org
@@ -812,6 +818,8 @@ baas@ziggurat.cn
 @@ EndNote
 endnote.account@clarivate.com
 news@discover.clarivate.com
+news@mail.discover.clarivate.com
+news@mailinfo.discover.clarivate.com
 
 @@ OnTheHub
 noreply@kivuto.com
@@ -855,3 +863,22 @@ noreply@email.amctheatres.com
 
 @@ SharePoint Online
 no-reply@sharepointonline.com
+
+@@ Yelp
+no-reply@yelp.com
+
+@@ PhD Comics
+support@phdcomics.com
+
+@@ Piazza
+no-reply@piazza.com
+
+@@ Starbucks Coffee Company
+orders@starbucks.com
+Starbucks@e.starbucks.com
+
+@@ Doodle
+mailer@doodle.com
+
+@@ Microsoft Verification Service
+verify@microsoft.com
