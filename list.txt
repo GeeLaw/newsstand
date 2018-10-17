@@ -876,9 +876,18 @@ no-reply@piazza.com
 @@ Starbucks Coffee Company
 orders@starbucks.com
 Starbucks@e.starbucks.com
+Starbucks@a.starbucks.com
 
 @@ Doodle
 mailer@doodle.com
 
 @@ Microsoft Verification Service
 verify@microsoft.com
+
+@@ Slack
+feedback@slack.com
+
+@@ WordPress.com
+passwordhelp@wordpress.com
+donotreply@wordpress.com
+help@wordpress.com
