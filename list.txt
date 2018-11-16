@@ -99,6 +99,7 @@ mail@nyheder.foetex.dk
 @@ Microsoft Store
 microsoftstore@microsoftstoreemail.com
 stremail@microsoft.com
+microsoftstore@email2.microsoft.com
 
 @@ ACM
 learning@acm.org
@@ -247,6 +248,7 @@ subscriptions@ashmus.ox.ac.uk
 
 @@ 草莓网
 newinfochn@adv.strawberrynet.com
+newinfo@adv.strawberrynet.com
 
 @@ SegmentFault
 notification@mail2.segmentfault.com
@@ -473,6 +475,11 @@ atoz-guarantee-no-reply@amazon.com
 prime@amazon.com
 amazon-student@amazon.com
 order-update@amazon.com
+store-offers@amazon.com
+
+@@ Woot.com
+no-reply@woot.com
+store-news@woot.com
 
 @@ ETS
 marketresearch@ets.org
@@ -705,6 +712,7 @@ noreply@name.com
 @@ Uber
 uber.us@uber.com
 noreply@uber.com
+email@et.uber.com
 
 @@ OpenTable
 no-reply@opentable.com
@@ -736,6 +744,7 @@ Do_not_reply@apple.com
 order_update_cn@orders.apple.com
 Your_order-is_almost_complete_AT@orders.apple.com
 xidanjoycity@apple.com
+statestreet@apple.com
 
 @@ Bing
 hello@email.bing.com
@@ -748,6 +757,7 @@ news@new.mail.taobao.com
 @@ Visual Studio Team Services
 VisualStudioTeamServices@microsoft.com
 VisualStudioOnline@microsoft.com
+azuredevops@microsoft.com
 
 @@ UCSB Housing
 housinginfo@housing.ucsb.edu
@@ -843,6 +853,7 @@ account@email.subway.com
 @@ 7-Eleven
 7-Eleven@e.email.bp00.com
 7Eleven@7-11.com
+noreply@7-eleven.com
 
 @@ Postmates
 no-reply@postmates.com
@@ -857,6 +868,7 @@ microsoftrewards@email.microsoftrewards.com
 @@ Lyft
 noreply@lyft.com
 noreply@lyftmail.com
+no-reply@lyftmail.com
 
 @@ AMC Theatres
 noreply@email.amctheatres.com
@@ -875,6 +887,7 @@ no-reply@piazza.com
 
 @@ Starbucks Coffee Company
 orders@starbucks.com
+Starbucks@mg.starbucks.com
 Starbucks@e.starbucks.com
 Starbucks@a.starbucks.com
 
@@ -891,3 +904,23 @@ feedback@slack.com
 passwordhelp@wordpress.com
 donotreply@wordpress.com
 help@wordpress.com
+
+@@ Transactions on Medical Imaging
+onbehalfof@manuscriptcentral.com
+
+@@ Clover
+app@clover.com
+
+@@ Discover Card
+discover@service.discover.com
+discover@card-e.em.discover.com
+
+@@ 优酷
+noreply@id-notice.youku.com
+
+@@ Consumer Priority Service
+cs@cpscentral.com
+
+@@ Movies Anywhere
+noreply@moviesanywhere.com
+Welcome@info.moviesanywhere.com
