@@ -561,6 +561,7 @@ hello@happy-culture-collection.com
 assistant@madeho.fr
 hotel-belloy-saint-germain@experience-hotel.com
 bonjour@hotels.happyculture.co
+hotel-belloy-saint-germain@experience-hotels.com
 
 @@ NYU Graduate Enrollment Services
 gsas.admissions@nyu.edu
@@ -924,3 +925,16 @@ cs@cpscentral.com
 @@ Movies Anywhere
 noreply@moviesanywhere.com
 Welcome@info.moviesanywhere.com
+
+@@ Universal Pictures Home Entertainment
+news@m3.universalstudios.com
+
+@@ Nintendo
+no-reply@accounts.nintendo.com
+nintendo-noreply@nintendo.net
+
+@@ TechMatte
+support@techmatte.com
+
+@@ Microsoft Partner Center
+msftpc@microsoft.com
