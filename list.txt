@@ -196,6 +196,13 @@ noreply-google-plus@google.com
 @@ Gap 中国
 gap@email.gap.cn
 
+@@ Gap US
+orders@email.gap.com
+gap@email.gap.com
+
+@@ IKEA US
+IKEA-USA@e.ikea-usa.com
+
 @@ 知乎
 weekly-digest@newsletter2.zhihu.com
 account@mail2.zhihu.com
@@ -476,6 +483,7 @@ prime@amazon.com
 amazon-student@amazon.com
 order-update@amazon.com
 store-offers@amazon.com
+return@amazon.com
 
 @@ Woot.com
 no-reply@woot.com
@@ -698,6 +706,7 @@ service@mail.evisa99.cn
 
 @@ Washington Square Hotel
 reservations@wshotel.com
+vharmer@wshotel.com
 
 @@ United Airlines
 unitedairlines@united.com
@@ -870,6 +879,8 @@ microsoftrewards@email.microsoftrewards.com
 noreply@lyft.com
 noreply@lyftmail.com
 no-reply@lyftmail.com
+noreply@marketing.lyftmail.com
+hello@lyftmail.com
 
 @@ AMC Theatres
 noreply@email.amctheatres.com
@@ -915,6 +926,7 @@ app@clover.com
 @@ Discover Card
 discover@service.discover.com
 discover@card-e.em.discover.com
+CPSReview@discover.com
 
 @@ 优酷
 noreply@id-notice.youku.com
@@ -938,3 +950,47 @@ support@techmatte.com
 
 @@ Microsoft Partner Center
 msftpc@microsoft.com
+
+@@ MileagePlus
+MyMileagePlus@news.united.com
+email@mileageplusshoppingnews.com
+MileagePlus@news.united.com
+MileagePlus_Partner@news.united.com
+
+@@ Starbucks Information
+info@support.starbucks.com
+
+@@ Amtrak
+etickets@amtrak.com
+do-not-reply@amtrakguestrewards.com
+updates@amtrakguestrewards.com
+Amtrak@wbaresearch.com
+
+@@ 一亩三分地
+1point3acres.com@gmail.com
+1point3acres.com=gmail.com@mg.1point3acres.com
+
+@@ Starbucks for Life
+starbucksforlife@helloworldfulfillment.com
+
+@@ Grubhub
+grubhub@welcome.grubhuboffers.com
+email@a.grubhub.com
+
+@@ Microsoft Outlook Calendar
+no-reply@microsoft.com
+
+@@ L'Occitane en Provence
+contact@contact.loccitane.com
+
+@@ UNiDAYS
+welcome@e.myunidays.com
+no-reply@myunidays.com
+
+@@ Washington State Department of Licensing
+DOLEmailBounceBack@dol.wa.gov
+noreply@dol.wa.gov
+DRIVESEmail@dol.wa.gov
+
+@@ SquareTrade Protection Plans
+purchaseconfirmation@squaretrade.com
