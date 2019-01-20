@@ -199,9 +199,12 @@ gap@email.gap.cn
 @@ Gap US
 orders@email.gap.com
 gap@email.gap.com
+gap@gap.narvar.com
+custserv@gap.com
 
 @@ IKEA US
 IKEA-USA@e.ikea-usa.com
+noreply@rating.email.ikea.com
 
 @@ 知乎
 weekly-digest@newsletter2.zhihu.com
@@ -484,6 +487,7 @@ amazon-student@amazon.com
 order-update@amazon.com
 store-offers@amazon.com
 return@amazon.com
+gc-orders@gc.email.amazon.com
 
 @@ Woot.com
 no-reply@woot.com
@@ -755,6 +759,9 @@ order_update_cn@orders.apple.com
 Your_order-is_almost_complete_AT@orders.apple.com
 xidanjoycity@apple.com
 statestreet@apple.com
+universityvillage@email.apple.com
+pickup_notification@orders.apple.com
+your_order_US@orders.apple.com
 
 @@ Bing
 hello@email.bing.com
@@ -905,6 +912,7 @@ Starbucks@a.starbucks.com
 
 @@ Doodle
 mailer@doodle.com
+noreply@doodle.com
 
 @@ Microsoft Verification Service
 verify@microsoft.com
@@ -986,6 +994,7 @@ contact@contact.loccitane.com
 @@ UNiDAYS
 welcome@e.myunidays.com
 no-reply@myunidays.com
+offers@e.myunidays.com
 
 @@ Washington State Department of Licensing
 DOLEmailBounceBack@dol.wa.gov
@@ -994,3 +1003,15 @@ DRIVESEmail@dol.wa.gov
 
 @@ SquareTrade Protection Plans
 purchaseconfirmation@squaretrade.com
+
+@@ Gradescope
+team@gradescope.com
+
+@@ LifeWise
+noreply@LifeWiseAC.com
+
+@@ MayTag Connect 360
+info@connect360.maytag.com
+
+@@ Montblanc US
+service.us@montblanc.com
