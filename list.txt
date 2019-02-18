@@ -41,6 +41,7 @@ no-reply@tumblr.com
 nike@official.nike.com
 jordan@official.nike.com
 nikeofficial@newsletter.nike.com.cn
+nikenew@newsletter.nike.com.cn
 
 @@ Disqus
 notifications@disqus.net
@@ -75,6 +76,7 @@ msstdev@microsoft.com
 
 @@ 腾讯云
 yun_noreply@tencent.com
+cloud_noreply@tencent.com
 
 @@ ResearchGate
 no-reply@researchgatemail.net
@@ -386,6 +388,7 @@ no_reply@email.apple.com
 discussions-updates@apple.com
 AppleSupport@InsideApple.apple.com
 noreply@applepay.apple.com
+devbugs@apple.com
 
 @@ Microsoft account
 account-security-noreply@accountprotection.microsoft.com
@@ -418,6 +421,7 @@ etsaccount@ets.org
 
 @@ 什么值得买
 service@service.smzdm.com
+weekly@newsletter.smzdm.com
 
 @@ Microsoft HoloLens
 email@engage.microsofthololens.com
@@ -711,6 +715,7 @@ service@mail.evisa99.cn
 @@ Washington Square Hotel
 reservations@wshotel.com
 vharmer@wshotel.com
+news@wshotel.com
 
 @@ United Airlines
 unitedairlines@united.com
@@ -850,6 +855,7 @@ news@mailinfo.discover.clarivate.com
 
 @@ OnTheHub
 noreply@kivuto.com
+noreply@onthehub.com
 
 @@ Instagram
 security@mail.instagram.com
@@ -973,6 +979,7 @@ etickets@amtrak.com
 do-not-reply@amtrakguestrewards.com
 updates@amtrakguestrewards.com
 Amtrak@wbaresearch.com
+amtrak@e-mail.amtrak.com
 
 @@ 一亩三分地
 1point3acres.com@gmail.com
@@ -1015,3 +1022,14 @@ info@connect360.maytag.com
 
 @@ Montblanc US
 service.us@montblanc.com
+
+@@ JetBrains
+no_reply@jetbrains.com
+
+@@ Jo Malone London
+JoMaloneOnlineService@jomalone.com
+jomalone@e.jomalone.com
+JoMaloneLondon@feedback.cfigroup.com
+
+@@ Elsevier
+eesserver@eesmail.elsevier.com
