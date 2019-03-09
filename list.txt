@@ -374,6 +374,7 @@ no-reply@cloudflare.com
 newsletter@cloudflare.com
 legal-updates@cloudflare.com
 cfmarketing@cloudflare.com
+no-reply@notify.cloudflare.com
 
 @@ Microsoft Support Verification
 maccount@microsoft.com
@@ -425,6 +426,7 @@ weekly@newsletter.smzdm.com
 
 @@ Microsoft HoloLens
 email@engage.microsofthololens.com
+Hololens@email2.microsoft.com
 
 @@ 京东JD.com
 newsletter1@jd.com
@@ -489,6 +491,7 @@ order-update@amazon.com
 store-offers@amazon.com
 return@amazon.com
 gc-orders@gc.email.amazon.com
+amazon-research-panel@amazon.com
 
 @@ Woot.com
 no-reply@woot.com
@@ -904,6 +907,7 @@ support@phdcomics.com
 
 @@ Piazza
 no-reply@piazza.com
+no-reply@piazzacareers.com
 
 @@ Starbucks Coffee Company
 orders@starbucks.com
@@ -1028,3 +1032,7 @@ JoMaloneLondon@feedback.cfigroup.com
 
 @@ Elsevier
 eesserver@eesmail.elsevier.com
+
+@@ TurboTax
+do_not_reply@intuit.com
+TurboTax@e.turbotax.intuit.com
