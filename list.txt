@@ -905,6 +905,7 @@ no-reply@sharepointonline.com
 
 @@ Yelp
 no-reply@yelp.com
+no-reply@mail.yelp.com
 
 @@ PhD Comics
 support@phdcomics.com
@@ -1047,3 +1048,21 @@ lagou@mail.lagoujobs.com
 
 @@ The DEV Community
 yo@dev.to
+
+@@ Sprintax
+no-reply@Sprintax.com
+hello@taxbackcom.nw002.com
+hello@sprintax.com
+
+@@ FTB CalFile
+no_reply@ftb.ca.gov
+no_reply.myftbaccess@ftb.ca.gov
+
+@@ Facebook for Developers
+facebookfordevelopers@go.facebookmail.com
+
+@@ Timus Online Judge
+judge@acm.timus.ru
+
+@@ Microsoft HealthVault
+hsmailer@microsoft.com
