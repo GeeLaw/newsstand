@@ -36,6 +36,7 @@ return-to@mkt.microsoftstore.com.cn
 
 @@ Tumblr
 no-reply@tumblr.com
+noreply@tumblr.com
 
 @@ Nike
 nike@official.nike.com
@@ -49,6 +50,7 @@ hello@disqus.com
 noreply@disqus.com
 help@disqus.com
 hello@success.disqus.com
+newsletter@disqus.com
 
 @@ Atlassian
 noreply@mailer.atlassian.com
@@ -743,6 +745,7 @@ no-reply@opentable.com
 @@ Delta Airlines
 noreply@delta.com
 DeltaAirLines@e.delta.com
+DeltaAirLines@t.delta.com
 
 @@ 飞猪
 alitrip@news.mail.alitrip.com
@@ -873,6 +876,7 @@ notification@facebookmail.com
 
 @@ SUBWAY Restaurants
 account@email.subway.com
+news@subs.subway.com
 
 @@ 7-Eleven
 7-Eleven@e.email.bp00.com
