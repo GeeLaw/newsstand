@@ -126,6 +126,7 @@ iTunesU@new.itunes.com
 
 @@ 程序员客栈
 service@programmerinn.com
+service@mail.proginn.com
 
 @@ Microsoft Billing
 billing@microsoft.com
@@ -243,6 +244,7 @@ News_China@InsideApple.Apple.com
 offers@e.godaddy.com
 donotreply_SG@godaddy.com
 AccountStatus@GoDaddy.com
+renewals@godaddy.com
 
 @@ PayPal
 paypal@mail.paypal.com
@@ -414,6 +416,7 @@ customer_service@jd.com
 
 @@ Garmin
 garmin@email.garmin.com
+reply@email1.garmin.com
 
 @@ 星巴克 My Starbucks Rewards
 starbucks@e1.starbucks.com.cn
@@ -497,6 +500,8 @@ store-offers@amazon.com
 return@amazon.com
 gc-orders@gc.email.amazon.com
 amazon-research-panel@amazon.com
+amazon-offers@amazon.co.uk
+no-reply@amazon.com
 
 @@ Woot.com
 no-reply@woot.com
@@ -746,6 +751,8 @@ no-reply@opentable.com
 noreply@delta.com
 DeltaAirLines@e.delta.com
 DeltaAirLines@t.delta.com
+DeltaAirLines@o.delta.com
+delta@express.medallia.com
 
 @@ 飞猪
 alitrip@news.mail.alitrip.com
@@ -782,6 +789,7 @@ hello@email3.bing.com
 @@ 淘宝网
 taobao@mc.mail.taobao.com
 news@new.mail.taobao.com
+service@smtp.mail.taobao.com
 
 @@ Visual Studio Team Services
 VisualStudioTeamServices@microsoft.com
@@ -870,6 +878,11 @@ smrfs@emailonline.chase.com
 banking@email.chaseoffers.com
 chaseonline@emailonline.chase.com
 Chase@e.chase.com
+ChaseDoNotReply@creditjourney.chase.com
+chase@email.chase.com
+no.reply.alerts.08@chase.com
+no.reply.alerts.03@chase.com
+no.reply.alerts.10@chase.com
 
 @@ Facebook
 notification@facebookmail.com
@@ -1010,6 +1023,7 @@ contact@contact.loccitane.com
 welcome@e.myunidays.com
 no-reply@myunidays.com
 offers@e.myunidays.com
+offers@m.myunidays.com
 
 @@ Washington State Department of Licensing
 DOLEmailBounceBack@dol.wa.gov
@@ -1070,3 +1084,38 @@ judge@acm.timus.ru
 
 @@ Microsoft HealthVault
 hsmailer@microsoft.com
+
+@@ FARFETCH
+farfetch@email.farfetch.com
+
+@@ SSRN
+support@ssrn.com
+
+@@ USPS
+USPostalService@usps.com
+
+@@ Ten Forums
+support@tenforums.org
+
+@@ 志愿云系统邮件
+poster@bv2008.cn
+
+@@ 饿饭cc云
+admin@efan.vip
+
+@@ 101domain.com
+domainsupport@101domain.com
+
+@@ InMotion
+eden@inmotionstores.ccsend.com
+news@inmotionstores.com
+
+@@ 数码荔枝
+Hi@tongxun.lizhi.io
+order@service.redeem.link
+
+@@ HackMD
+no-reply@hackmd.io
+
+@@ Account Kit
+no-reply@login.accountkit.com
