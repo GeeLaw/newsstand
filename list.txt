@@ -283,6 +283,10 @@ team@kaggle.com
 mark@kaggle.com
 rachael@kaggle.com
 colinmorris@kaggle.com
+alexis.cook@kaggle.intercom-mail.com
+will.cukierski@kaggle.intercom-mail.com
+addison.howard@kaggle.intercom-mail.com
+sohier.dane@kaggle.intercom-mail.com
 
 @@ Apple Music
 new@applemusic.com
@@ -397,6 +401,7 @@ discussions-updates@apple.com
 AppleSupport@InsideApple.apple.com
 noreply@applepay.apple.com
 devbugs@apple.com
+applearcade@insideapple.apple.com
 
 @@ Microsoft account
 account-security-noreply@accountprotection.microsoft.com
@@ -883,6 +888,7 @@ chase@email.chase.com
 no.reply.alerts.08@chase.com
 no.reply.alerts.03@chase.com
 no.reply.alerts.10@chase.com
+no.reply.alerts@chase.com
 
 @@ Facebook
 notification@facebookmail.com
@@ -1071,6 +1077,8 @@ yo@dev.to
 no-reply@Sprintax.com
 hello@taxbackcom.nw002.com
 hello@sprintax.com
+Info@taxbackcom.nw002.com
+Info@Sprintax.com
 
 @@ FTB CalFile
 no_reply@ftb.ca.gov
