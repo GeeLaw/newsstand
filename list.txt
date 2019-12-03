@@ -51,6 +51,7 @@ noreply@disqus.com
 help@disqus.com
 hello@success.disqus.com
 newsletter@disqus.com
+noreply@foryou.disqus.com
 
 @@ Atlassian
 noreply@mailer.atlassian.com
@@ -246,6 +247,7 @@ offers@e.godaddy.com
 donotreply_SG@godaddy.com
 AccountStatus@GoDaddy.com
 renewals@godaddy.com
+notices_SG@godaddy.com
 
 @@ PayPal
 paypal@mail.paypal.com
@@ -301,6 +303,7 @@ noshow@booking.com
 
 @@ Microsoft Office 365 Team
 Office365@email.microsoftonline.com
+MicrosoftOffice365@email.office.com
 
 @@ Microsoft Office Store
 osdc1033@microsoft.com
@@ -1121,8 +1124,8 @@ support@101domain.com
 @@ InMotion
 eden@inmotionstores.ccsend.com
 news@inmotionstores.com
-eden@inmotionstores.ccsend.com
 egoldberg@inmotionstores.com
+newsletter@inmotionstores.com
 
 @@ 数码荔枝
 Hi@tongxun.lizhi.io
@@ -1137,3 +1140,7 @@ no-reply@login.accountkit.com
 @@ IEEE
 wmsprod@ieee.org
 noreply@ieee.org
+
+@@ Airbnb
+invitation@airbnb.com
+automated@airbnb.com
