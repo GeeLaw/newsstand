@@ -1149,3 +1149,15 @@ noreply@ieee.org
 @@ Airbnb
 invitation@airbnb.com
 automated@airbnb.com
+
+@@ Alaska Airlines
+mileage.plan@ifly.alaskaair.com
+alaska.it@alaskaair.com
+
+@@ Williams Sonoma
+williams-sonoma@order.williams-sonoma.com
+Williams-Sonoma@mail.williams-sonoma.com
+WilliamsSonoma@mail.williams-sonoma.com
+
+@@ The Knot
+no-reply@weddings.theknot.com
