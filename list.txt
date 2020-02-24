@@ -314,6 +314,9 @@ support@feedly.com
 hello@feedly.com
 edwin@em.feedly.com
 
+@@ Inoreader
+no-reply@inoreader.com
+
 @@ App Store
 AppStore@new.itunes.com
 
@@ -923,6 +926,9 @@ forms-receipts-noreply@google.com
 @@ Microsoft Rewards
 microsoftrewards@email.microsoftrewards.com
 
+@@ Microsoft Power Automate
+powerautomate@email2.microsoft.com
+
 @@ Lyft
 noreply@lyft.com
 noreply@lyftmail.com
@@ -1161,3 +1167,10 @@ WilliamsSonoma@mail.williams-sonoma.com
 
 @@ The Knot
 no-reply@weddings.theknot.com
+
+@@ BART
+no-reply@moovelna.com
+webcustomerservices@bart.gov
+
+@@ Venmo
+venmo@venmo.com
