@@ -393,6 +393,7 @@ newsletter@cloudflare.com
 legal-updates@cloudflare.com
 cfmarketing@cloudflare.com
 no-reply@notify.cloudflare.com
+noreply@notify.cloudflare.com
 
 @@ Microsoft Support Verification
 maccount@microsoft.com
@@ -1159,6 +1160,8 @@ automated@airbnb.com
 @@ Alaska Airlines
 mileage.plan@ifly.alaskaair.com
 alaska.it@alaskaair.com
+service@ifly.alaskaair.com
+alaskasurvey@feedbackemail.alaskaair.com
 
 @@ Williams Sonoma
 williams-sonoma@order.williams-sonoma.com
@@ -1174,3 +1177,9 @@ webcustomerservices@bart.gov
 
 @@ Venmo
 venmo@venmo.com
+
+@@ AlertSeattle (smart911)
+no-reply@smart911.com
+
+@@ Vagaro
+admin@vagaro.com
