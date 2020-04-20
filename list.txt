@@ -333,8 +333,9 @@ noreply@midttrafik.dk
 @@ DSB
 netbutikken@dsb.dk
 
-@@ OneDrive User Voice
+@@ User Voice
 no-reply@onedrive.uservoice.com
+no-reply@powerpoint.uservoice.com
 
 @@ Visit Paris
 internet@resa.parisinfo.com
@@ -394,6 +395,7 @@ legal-updates@cloudflare.com
 cfmarketing@cloudflare.com
 no-reply@notify.cloudflare.com
 noreply@notify.cloudflare.com
+teams@cloudflare.com
 
 @@ Microsoft Support Verification
 maccount@microsoft.com
@@ -1132,6 +1134,7 @@ admin@efan.vip
 domainsupport@101domain.com
 info@101domain.com
 support@101domain.com
+corporate@101domain.com
 
 @@ InMotion
 eden@inmotionstores.ccsend.com
@@ -1183,3 +1186,7 @@ no-reply@smart911.com
 
 @@ Vagaro
 admin@vagaro.com
+
+@@ DoorDash
+no-reply@doordash.com
+doordash@delighted.com
